@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name projeto-final)(type Legacy)(uri ${KIPRJMOD}/projeto-final.lib)(options "")(descr ""))
+)
